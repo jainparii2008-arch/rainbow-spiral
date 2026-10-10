@@ -1,4 +1,5 @@
 # 🌈 Rainbow Spiral — Python Turtle Graphics
+FOR FUN 
 
 A colorful, expanding spiral created using Python's built-in Turtle graphics module. This project uses loops, geometric patterns, and rainbow colors to create visual art with code.
 
